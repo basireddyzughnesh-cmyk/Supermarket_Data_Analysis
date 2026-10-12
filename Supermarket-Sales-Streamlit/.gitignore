@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and editor/runtime files
+.streamlit/secrets.toml
+.vscode/
+
+# Excel lock files
+~$*.xlsx
