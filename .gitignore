@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local editor/runtime files
+.bob/
+.streamlit/secrets.toml
+
+# Generated reports and temporary Excel files
+reports/*.pdf
+~$*.xlsx

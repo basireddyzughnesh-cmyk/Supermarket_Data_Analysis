@@ -1,0 +1,18 @@
+# ──────────────────────────────────────────────────────────────
+# Supermarket Sales Analysis — Project Requirements
+# Install: python -m pip install -r requirements.txt
+# ──────────────────────────────────────────────────────────────
+
+# Core data manipulation
+pandas==3.0.3
+numpy==2.5.0
+openpyxl==3.1.5          # read/write .xlsx files
+
+# Interactive dashboard
+streamlit==1.63.0
+
+# Visualisation
+plotly==7.0.0
+
+# PDF report generation
+reportlab==5.0.1
